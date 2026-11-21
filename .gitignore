@@ -1,0 +1,92 @@
+# Project-specific generated files
+/audio/
+/msb_ob_notification_bridge.pine
+/generate_audio.py
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Python build and packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg
+*.egg-info/
+.installed.cfg
+MANIFEST
+
+# Python test and coverage output
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+nosetests.xml
+*.cover
+*.py,cover
+
+# Python tooling and notebooks
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
