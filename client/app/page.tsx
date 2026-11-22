@@ -1,7 +1,10 @@
+import ChatView from "./components/ChatView";
+
 export default function Home() {
   return (
     <main>
-      <h1>Welcome to the Home Page</h1>
+      <ChatView />
+
     </main>
   );
 }
